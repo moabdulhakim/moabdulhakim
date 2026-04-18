@@ -40,7 +40,7 @@ I specialize in **Backend Engineering**, translating business logic into efficie
 * **Concepts:** Custom algorithms, Memory Management, Sobel Edge Detection.
 * **Stack:** C++, CMake.
 
-#### 4. [OS Portfolio - Operating System Simulation](https://osportfolio.vercel.app/pc/os)
+#### 4. [OS Portfolio - Operating System Simulation](https://github.com/moabdulhakim/os-portfolio-public)
 > *Interactive, browser-based native desktop experience.*
 * **The Engineering:** Built a complex state machine utilizing Zustand to manage application lifecycles, multitasking, and window z-indexing for draggable and resizable UI elements. 
 * **UI/UX:** Integrated a 3D startup sequence with Three.js and applied Framer Motion to optimize DOM performance for smooth UI transitions.

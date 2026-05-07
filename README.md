@@ -24,19 +24,19 @@ I specialize in **Backend Engineering**, translating business logic into efficie
 
 #### 1. [Co-Student - Educational Platform](https://github.com/moabdulhakim/co-student-public)
 > *A full-stack learning and social platform built iteratively.*
-* **The Engineering:** Developed the core backend from scratch using Node.js, scaling the application to **150+ RESTful endpoints**. Deployed the full-stack application to a Linux VPS.
+* **The Engineering:** Developed the core backend from scratch using Node.js, scaling the application to **150+ RESTful endpoints**. Built the React frontend and deployed the full-stack application to a Linux VPS.
 * **Impact:** Automated educator outreach with a custom personalized messaging script, directly facilitating live product demonstrations and early platform adoption.
 * **Stack:** MERN Stack (React.js, Node.js, Express, MongoDB), Linux.
 
 #### 2. [Masar API - Fleet Management System (In-Development)](https://github.com/moabdulhakim/masar-api)
 > *Ride-hailing backend API engine.*
-* **The Engineering:** Implemented strict TypeORM database transactions to maintain data consistency and prevent partial saves during multi-step user and role-profile registrations.
+* **The Engineering:** Implemented TypeORM database transactions and Optimistic Locking to maintain data consistency and prevent race conditions during concurrent ride acceptance requests.
 * **Current Focus:** Implementing a secure authentication and session management backend utilizing Argon2 hashing and JWT refresh tokens.
 * **Stack:** **NestJS**, TypeScript, PostgreSQL, TypeORM.
 
 #### 3. [C++ Image Processor](https://github.com/moabdulhakim/cpp-image-processor)
 > *High-performance core pixel transformation engine.*
-* **The Engineering:** Designed the core Object-Oriented structure of the C++17 application using an abstract Factory-like pattern, ensuring the seamless integration of 22 independent visual filters with zero modifications to existing source files.
+* **The Engineering:** Designed the core Object-Oriented structure of the C++17 application using the Factory design pattern, ensuring the seamless integration of 22 independent visual filters with zero modifications to existing source files.
 * **Concepts:** Custom algorithms, Memory Management, Sobel Edge Detection.
 * **Stack:** C++, CMake.
 
@@ -52,7 +52,7 @@ I specialize in **Backend Engineering**, translating business logic into efficie
 
 #### 🌟 Object-Oriented & Desktop Architecture
 * **[Tarkeez - Productivity Desktop App](https://github.com/moabdulhakim/tarkeez):** Structured the application architecture utilizing the **MVC pattern** to cleanly decouple JavaFX UI controllers from background file management services for a state-driven Pomodoro timer.
-* **[Board Game Center](https://github.com/moabdulhakim/GameBoards):** Extended a core C++ framework to develop 13 distinct board game variants, utilizing inheritance and the Factory design pattern to cleanly separate game mechanics and custom grid validation from the console UI.
+* **[Board Game Center](https://github.com/moabdulhakim/GameBoards):** Implemented 13 distinct board games by leveraging a C++ OOP framework, utilizing inheritance and the Factory design pattern to cleanly separate game mechanics and custom grid validation from the console UI.
 
 #### 💻 Web & Component Design
 * **[OLX Classifieds Platform](https://github.com/moabdulhakim/olx-assessment):** Engineered a lightweight UI from scratch avoiding external libraries. Developed reusable form components that dynamically render based on API payloads, and optimized SEO using Server-Side Rendering (SSR).
